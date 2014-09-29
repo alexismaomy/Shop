@@ -3,7 +3,11 @@
     <type>org.netbeans.modules.php.project</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/php-project/1">
+<<<<<<< HEAD
             <name>magasin</name>
+=======
+            <name>shop</name>
+>>>>>>> ff79b5e858b9ad96923a4f9277bc999658bbb99d
         </data>
     </configuration>
 </project>
