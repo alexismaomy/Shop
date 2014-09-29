@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         // put your code here
+        echo "Bienvenue au magasin"
         ?>
     </body>
 </html>
