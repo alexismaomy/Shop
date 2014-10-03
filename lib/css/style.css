@@ -1,0 +1,117 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 26 sept. 2014, 02:45:01
+    Author     : user
+*/
+
+/*Style css pour mon site*/
+body
+{
+ background-image:url(../../images/magasin.jpg);
+}
+#wrapper
+{
+  width:920px;
+  margin:auto;
+  background-color: white;
+  border:5px Ridge #DAD5C9;
+}
+header
+{
+ margin:auto;
+ width:100%;
+}
+#banniere
+{
+ float:center;
+}
+
+#end_float
+{
+ clear:both;
+}
+
+#menu_gauche 
+{
+width:700px;
+margin:auto;
+font-family:arial;
+font-size:15px;
+padding:10px 0 15px 0;
+}
+
+#menu_gauche ul
+{
+ list-style-type:none;
+ margin:auto;
+}
+
+#menu_gauche ul>li
+{
+ display:inline;
+ padding-left:15px;
+ font-size:12px;
+}
+
+a
+{
+ text-decoration:none;
+ font-weight:bold;
+ color: green;
+}
+ul>li>a:hover
+{
+ color:black;
+}
+
+#accueil
+{
+ width:340px;
+ margin:auto;
+ padding-left:10px;
+ color:green;
+}
+
+#list th
+{
+color: green;
+}
+#list td
+{
+	text-align: center;
+}
+#liste 
+{
+background-color:light-green;
+color: green;
+text-align: center;
+
+}
+label 
+{
+color: green;
+}
+#accueil h2
+{
+color: green;
+}
+table
+{
+position: center;
+border:1 solid;
+border-radius:7px;
+color:green;
+}
+legend{
+color:green;
+}
+#envoi,#annuler{
+color:green;
+}
+fieldset{
+color:green;
+}

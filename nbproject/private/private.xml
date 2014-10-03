@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+<<<<<<< HEAD
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group/>
+=======
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/user/Documents/websites/magasin/index.php</file>
+            <file>file:/C:/Users/user/Documents/websites/magasin/lib/php/mes_fonctions_serveur.php</file>
+        </group>
+>>>>>>> abc4b61ef2f5a7938e497803867f414c6d7a3b90
     </open-files>
 </project-private>
